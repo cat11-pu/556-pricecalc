@@ -1,0 +1,12 @@
+{
+  "unitPrice": "1 899.50,90 EUR",
+  "quantity": 2,
+  "steps": [
+    {"op": "pct", "value": "12.5"},
+    {"op": "amt", "value": "7.05"},
+    {"op": "pct", "value": "0"},
+    {"op": "amt", "value": "0.003"},
+    {"op": "tax", "value": "20"},
+    {"op": "fx", "value": "74.9", "to": "RUB"}
+  ]
+}
